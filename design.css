@@ -60,9 +60,10 @@
 @media screen and (min-width: 280px) and (max-width: 576px) { 
     .hero { 
         justify-content: center; 
-        color: #fff; 
+        color: #fff;
         background-image: radial-gradient(circle, rgb(15 14 14 / 30%),
-          rgb(102 96 96 / 40%), rgb(163 160 160 / 16%)), url('./Images/jobImage3.avif') 
+          rgb(102 96 96 / 40%), rgb(163 160 160 / 16%)), url('./Images/jobImage3.avif')
+
     } 
 
     .sub-heading { 
