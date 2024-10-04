@@ -56,13 +56,12 @@
 } 
 
 
-/* CSS for mobile devices */
-@media screen and (min-width: 280px) and (max-width: 576px) { 
+ 
     .hero { 
         justify-content: center; 
         color: #fff;
         background-image: radial-gradient(circle, rgb(15 14 14 / 30%),
-          rgb(102 96 96 / 40%), rgb(163 160 160 / 16%)), url('./Images/heroimg3.png');
+          rgb(102 96 96 / 40%), rgb(163 160 160 / 16%)), url('./Images/jobImage3.avif');
 
     } 
 
@@ -170,4 +169,3 @@
     .footer-list-items { 
         margin: 5px;
     } 
-}
