@@ -57,7 +57,7 @@
 
 
 /* CSS for mobile devices */
-@media screen and (min-width: 250px) and (max-width: 576px) { 
+@media screen and (min-width: 280px) and (max-width: 576px) { 
     .hero { 
         justify-content: center; 
         color: #fff;
