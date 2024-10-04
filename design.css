@@ -56,7 +56,8 @@
 } 
 
 
- 
+/* CSS for mobile devices */
+@media screen and (min-width: 250px) and (max-width: 576px) { 
     .hero { 
         justify-content: center; 
         color: #fff;
@@ -169,3 +170,4 @@
     .footer-list-items { 
         margin: 5px;
     } 
+}
